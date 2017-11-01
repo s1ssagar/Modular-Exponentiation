@@ -21,3 +21,6 @@ def main():
     b = 10000000    #exponent
     n = 7           #mod
     modexp_lr(a,b,n)
+
+if __name__ == "__main__":
+    main()
